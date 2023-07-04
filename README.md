@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Anteneh
-- 👀 I’m interested in programming cyber security and cloud computing.
-- 🌱 I’m currently Focusing on programming cyber security and cloud computing.
-- 💞️ I’m looking to collaborate on with anyone anywere in the world who is interested in programming cyber security and cloud computing.
+- 👀 I’m interested in  cyber security and Cyber Secuirty Projects.
+- 🌱 I’m currently Focusing on cyber security .
+- 💞️ I’m looking to collaborate on with anyone anywere in the world who is interested in  cyber security.
 - 📫 How to reach me you can contact me through my user name Anteneh007
 
 <!---
