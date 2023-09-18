@@ -1,4 +1,5 @@
 - 👋 Hi, I’m @Anteneh
+- I'M a Junior Cyber Secuirty Analyst
 - 👀 I’m interested in  cyber security and Cyber Secuirty Projects.
 - 🌱 I’m currently Focusing on cyber security .
 - 💞️ I’m looking to collaborate on with anyone anywere in the world who is interested in  cyber security.
